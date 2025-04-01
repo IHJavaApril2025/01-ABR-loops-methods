@@ -5,7 +5,7 @@ public class DoWhileLoop {
         do {
             System.out.println("hola");
             i++;
-        } while (i < 10);
+        } while (i < 20);
     }
     // comentario en V2
     // modificacion v2
